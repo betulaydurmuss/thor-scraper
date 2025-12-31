@@ -1,0 +1,14 @@
+# Build
+*.exe
+*.out
+
+# Logs & Outputs
+logs/
+output/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Go
+/go.sum
